@@ -19,7 +19,3 @@ You can donate to me through digital money.
 or
 
 `11NYeN9o4Do7zarDBWfJCBczu84ByWW3E`
-
-## EOS
-
-[`qyvlikeosusr`](https://www.eosx.io/account/qyvlikeosusr)
